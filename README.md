@@ -1,5 +1,11 @@
 # Petalot
 
+Forked to make a couple of Changes:
+
+1) re-use existing filament spools (for PET "tape" and filament)to further reduce waste
+2) Mount on Aluminum Extrusions as opposed to wood blocks
+3) MAYBE : move code to ESPHome because the house Must Control All The Things.
+
 [en Español](https://github.com/function3d/petalot/blob/master/LEEME.md)
 
 ## From PET Bottle To 3D Filament
